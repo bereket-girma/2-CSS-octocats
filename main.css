@@ -1,0 +1,38 @@
+ul {
+  display: flex;
+  justify-content: center;
+}
+
+.octodex {
+  margin-top: ;
+  margin-right: sp;
+}
+
+.authors img {
+  width: 10%;
+  height: auto;
+}
+.octocat {
+  justify-content: space-between;
+  margin: 10px 0px 30px 20px;
+  border-bottom: 0.5px solid grey;
+}
+.octocat a img {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+
+  border: 0.5px solid grey;
+}
+
+.image-footer a img {
+  width: 10%;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.image-caption {
+  display: flex;
+  margin: 0px 20px;
+}
